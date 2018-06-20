@@ -1,0 +1,2 @@
+# semantic-ui-modal
+The Semantic UI modal does not allot users to create a modal from JavaScript. This can make the modal difficult to use when displaying different set of messages to the user. This JavaScript class solves that problem by allowing the user to create a modal via JavaScript while the class handle the entire HTML and call-back functionality. This code also helps to reduce the amount of HTML code the user have to add for the modal as the HTML codes are then added based on the type of modal requested.
